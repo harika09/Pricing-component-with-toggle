@@ -281,6 +281,11 @@ hr{
     span{
         left: 5px;
     }
+
+    .basic__container, .master__container{
+        border-radius: 15px;
+    }
+    
 }
 
 @media screen and (max-width: 600px){
